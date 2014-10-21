@@ -20,3 +20,5 @@ Una vez registrado se puede acceder a todas las secciones de la app por medio de
 En la pantalla principal podrán visualizarse las denuncias que se han realizado, marcadas como públicas.
 Para realizar una denuncia debe presionarse el boton "Denunciar" en la pantalla principal y seguir los pasos que se solicitan uno por uno.
 Para ver las denuncias que se han realizado debe presionarse el boton de "Mis denuncias" en la pantalla principal, aquí podrán visualizarse todas las denuncias realizadas, públicas o no públicas, anónimas o no anónimas.
+
+**VER MANUAL DE USUARIO
