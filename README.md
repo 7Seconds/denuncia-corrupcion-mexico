@@ -22,3 +22,4 @@ Para realizar una denuncia debe presionarse el boton "Denunciar" en la pantalla 
 Para ver las denuncias que se han realizado debe presionarse el boton de "Mis denuncias" en la pantalla principal, aquí podrán visualizarse todas las denuncias realizadas, públicas o no públicas, anónimas o no anónimas.
 
 **VER MANUAL DE USUARIO
+URL Video: https://www.youtube.com/watch?v=HS-le5UWg_A
