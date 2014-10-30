@@ -23,5 +23,4 @@ Para ver las denuncias que se han realizado debe presionarse el boton de "Mis de
 
 **VER MANUAL DE USUARIO
 
-URL's Video: https://www.youtube.com/watch?v=DjNWKkqeahg
-             https://www.youtube.com/watch?v=HS-le5UWg_A
+URL's Video: https://www.youtube.com/watch?v=mrQgdB6YdXM
