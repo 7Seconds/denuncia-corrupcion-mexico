@@ -575,7 +575,7 @@ didFinishPickingMediaWithInfo:(NSDictionary *)info
     NSLog(@"%@", arrayMC);
     
     UILocalNotification* localNotification = [[UILocalNotification alloc] init];
-    localNotification.fireDate = [NSDate dateWithTimeIntervalSinceNow:20/*((arc4random() % 1) + 40)*/];
+    localNotification.fireDate = [NSDate dateWithTimeIntervalSinceNow:((arc4random() % 60) + 240)];
     switch ([[[[defaults objectForKey:@"mycomplaints"] objectAtIndex:[[defaults objectForKey:@"mycomplaints"] count]-1] objectForKey:@"type"] integerValue]) {
         case 0:
             localNotification.alertBody = @"Su denuncia por Extorsión esta ahora en proceso.";
