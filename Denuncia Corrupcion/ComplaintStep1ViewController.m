@@ -198,9 +198,9 @@
     
     mapView.showsUserLocation = YES;
     MKCoordinateRegion region;
-    //coordinate = mapView.userLocation.location.coordinate;
-     CLLocationCoordinate2D coord  = {(19.3823797),(-99.1762844)};
-    coordinate = coord;
+    coordinate = mapView.userLocation.location.coordinate;
+    //CLLocationCoordinate2D coord  = {(19.3823797),(-99.1762844)};
+    //coordinate = coord;
     region.center = coordinate;
     region.span = MKCoordinateSpanMake(0.05, 0.05);
     region = [mapView regionThatFits:region];
